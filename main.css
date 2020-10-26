@@ -153,6 +153,7 @@ button.ghost {
     font-size: 2rem;
     font-weight: 500;
     color: #FFFFFF;
+    cursor: pointer;
 }
 button.ghost:hover {
 	background-color: #eee;
